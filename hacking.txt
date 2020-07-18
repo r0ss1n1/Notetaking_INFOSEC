@@ -1,0 +1,123 @@
+
+
+
+@r0ss1n1
+
+Mobile / iOS, Android, etc
+Application / Windows, Linux, MacOS - C/C++, etc
+Web Application / MSSQL, MySQL, PostgreSQL, Oracle, .NET/C#, Django, Rails, PHP, OWASP, BURP Suite, sqlMAP etc
+Kernel / Device Driver, KEXT, SYSTEM/root, IOCTL, Windows / Linux / macOS, etc
+Browser / Safari, Chrome, Firefox, etc
+Protocol, File Format / Server Message Block, File Transfer Protocol, Transport-neutral encapsulation format
+	   		configuration files, JPEG, PDF, .doc, .docx, HTTP, Bluetooth, Wi-fi, NFC, IMAP, POP3
+
+x86, x86_64, MIPS, SPARC, etc
+
+MITRE C/C++
+
+Shellcode Encoding
+
+Stack Overflow
+Heap Overflow
+Race Condition
+Out-of-bounds read
+Format string
+Kernel pool overflow
+Use-after-free
+Pointer dereference
+Write-what-where
+
+@r0ss1n1
+
+Stack Cookies, SEHOP, SEH, Heap metadata/cookies, NX/Data Execution Prevention/ret2libc/return-oriented programming
+Control Flow Guard, SMEP, SMAP, Enhanced Mitigation Experience Toolkit, Windows Defender
+
+Anti-virus evasion
+
+Antivirus 0day
+
+Crypters
+
+Tunneling/proxychains
+
+@r0ss1n1
+
+SQLi, RFI/LFI, XSS, XXE, CSRF, OWASP ...
+
+Web-application Firewalls, Regex
+
+Network-equipment zero-days, SNMP, FTP, SSH/OpenSSL/TLS, HTTP
+
+Packet-inspection
+
+Zero-days
+
+@r0ss1n1
+
+nmap/netcat/protocol analysis/custom inspection/custom fuzzer
+
+Firewall evasion
+
+fingerprinting / OS detection / protocol / application / kernel detection
+
+Network discovery
+
+@r0ss1n1
+
+Router, switch, load-balancer, firewall, proxy #0day
+
+DMZ, SQL Server, HTTP Server, Domain Controller, Endpoint / Client machine
+
+@r0ss1n1
+
+
+Immunity Debugger, winDBG, local / remote kernel debugging for exploits, memory map
+
+Device Driver / kext nomenclature
+
+Windows XP - 10
+Windows Server 2000 - 2019
+Various Microsoft-produced applications (Office, Exchange, IIS, SharePoint, etc)
+
+Linux, BSD (Ubuntu, Red Hat, Debian etc)
+
+macOS (OS X to macOS)
+
+iOS (app/social media zero-days and fuzzing)
+Android (app/social media zero-days and fuzzing)
+
+Persistence malware, exfiltration malware, mobile/desktop/server varied distribution application/kernel rootkits, bootkits
+
+Antivirus evasion through packing, crypting
+
+Transferring tools with Powershell and Python and Netcat/ncat
+
+Big Data / large scale exfiltration
+
+Privilege escalation
+
+Modifying and porting exploit code
+
+Metasploit - staged/non staged payloads, shell, download-and-execute, #0day, etc
+
+Java applet malware, reverse shell
+
+Embedded Linux distributions / networking devices
+
+@r0ss1n1
+
+RFC / Technet
+
+Kinds of fuzzing
+
+@r0ss1n1
+
+CVEs / existing proof-of-concepts
+
+Password cracking, brute-force
+
+System Auditing / logs / inspection / forensics for further penetration
+
+etc
+
+19 July 2020, Charles Thomas Wallace Truscott, @r0ss1n1, notes on penetration testing (spurious)
